@@ -1,0 +1,20 @@
+body{
+    background:url('img/pexels-pixabay-259915.jpg')no-repeat center fixed ;
+    background-size: cover;
+    
+}
+
+.title{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 1rem;
+    
+}
+.card{
+    background-color: rgba(27, 27, 50, 0.8);
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
